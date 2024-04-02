@@ -73,6 +73,6 @@ Now that we know the most popular programming languages, let's get into c# and s
 
 **Cross-platform Development:** C# has become more cross-platform compatible. You can develop applications that run on Windows, Linux, and macOS using C# and .NET.
 
-What makes c# unique is integration with .NET Framework/.NET Core, which provides a rich set of libraries and tools for building various types of applications. The extensive class libraries in .NET allow developers to accomplish tasks with minimal code, leading to increased productivity.
+What makes c# unique is its integration with .NET Framework/.NET Core, which provides a rich set of libraries and tools for building various types of applications. The extensive class libraries in .NET allow developers to accomplish tasks with minimal code, leading to increased productivity.
 
 In conclusion, C# is a versatile language that can be used in various scenarios. However, the choice of whether to use it depends on your preferences and what is most suitable for specific scenarios.
